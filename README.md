@@ -6,6 +6,7 @@ Note: This conversion is based on SPPU FE 2019 rulebook and circular no. 322/202
 
 Prepared by:
 Mr. Rupesh Mahajan (CEO)
+&
 Mr. Zaosh Damania (DIT)
 
 - DR. D. Y. PATIL INSTITUTE OF TECHNOLOGY
